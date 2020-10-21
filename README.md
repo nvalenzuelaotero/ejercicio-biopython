@@ -1,1 +1,2 @@
 # ejercicio-biopython
+El primer paso fue clonar un repositorio, después se agrego un script de Python que contiene la función summarize_contents(), dicha función recibe un archivo en formato genbank. Usando biopython, elabore un código que imprima el contenido del archivo con la siguiente estructura: "file"que corresponde al nombre de archivo, "path" que es la ruta al archivo, un "num_records" que es el numero de registros y una lista de "records" que cotienen: - id: [id del primer registro] name: [nombre] description: [descripción].
